@@ -1,10 +1,10 @@
 [package]
 name = "derive"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["Scott Steele <scottlsteele@gmail.com>"]
 
 homepage = "https://github.com/scooter-dangle/derive-rs"
 repository = "https://github.com/scooter-dangle/derive-rs"
-description = "A library providing a minimal example of a derivable trait for testing and illustration (not yet implemented)"
+description = "A library providing a minimal example of a derivable trait (via companion crate derive-derive) for testing and illustration"
 
 license = "Apache-2.0"
